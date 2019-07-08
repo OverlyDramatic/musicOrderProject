@@ -1,6 +1,6 @@
 # music_order_project
 
-> music in order by albums, artists and anything else
+> music in order by albums, artists and anything else\n
 > I use node.js by the way
 
 ## Build Setup
